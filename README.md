@@ -1,4 +1,4 @@
-<img width="1211" height="489" alt="Dashboard" src="https://github.com/user-attachments/assets/ce47dcf2-233f-4da7-a360-6164ee65bc7f" /><img width="1211" height="489" alt="Dashboard" src="https://github.com/user-attachments/assets/79b405bc-5698-42a4-bac9-acd0913367a6" /># 📊 Interactive Retail Sales Dashboard | Microsoft Excel
+📊 Interactive Retail Sales Dashboard | Microsoft Excel
 
 An interactive **Retail Sales Dashboard** built in **Microsoft Excel** using **Power Query**, **Pivot Tables**, **Pivot Charts**, **Slicers**, **Timeline**, and **Conditional Formatting**. This project demonstrates an end-to-end data analysis workflow, from cleaning raw data to creating an interactive dashboard for business insights.
 
